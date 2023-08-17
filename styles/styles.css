@@ -1,0 +1,27 @@
+/* Styles for the header */
+header {
+    background-color: aliceblue; /* Blue background */
+    color: darkslategray;        /* White text */
+    font-size: 3em;              /* Large font size */
+    text-align: center;          /* Centered text */
+    padding: 70px 0;             /* Padding top and bottom */
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: bold;
+}
+
+/* Font for paragraphs */
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    font-family: 'Open Sans', sans-serif;
+}
+
+strong {
+    font-weight: 900;  /* Use the extra bold weight */
+}
